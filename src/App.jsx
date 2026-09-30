@@ -23,7 +23,8 @@ Message: ${message}`;
       {/* Navbar */}
       <nav className="navbar">
         <div className="logo">
-          <span>✚</span> Agrawal Chemist
+          {/* <span>✚</span> */}
+          Agrawal Chemist
         </div>
 
         <div className="nav-links">
